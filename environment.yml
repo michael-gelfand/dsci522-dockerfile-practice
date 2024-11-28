@@ -1,0 +1,10 @@
+name: assn_2_env
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab=4.2.5
+  - matplotlib=3.9.2
+  - pandas=2.2.2
+  - python=3.11.9
+  - conda-lock=2.5.7
+prefix: /Users/michaelgelfand/miniforge3/envs/assn_2_env
